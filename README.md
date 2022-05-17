@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @changary1994
-- 👀 I’m interested in coding, books, media, games, fitness, and exploring what life has to offer.
-- 🌱 I’m currently learning software engineering, game development, project management, and team coordination.
+- 👀 I’m interested in games, coding, books, media, fitness, and exploring what life has to offer. I have played video games my entire life and would like to be involved in an industry that has helped shape my life.
+- 🌱 I’m a soon-to-be B.S. Computer Science graduate currently learning software engineering, game development, and working in a team environment.
 - 📫 How to reach me: changary1994@gmail.com 
 
 <!---
